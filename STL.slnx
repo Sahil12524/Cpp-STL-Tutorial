@@ -1,0 +1,26 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Custom Priority/Custom Priority.vcxproj" Id="500edf4e-3bd5-4398-bde3-0db5318ce9db" />
+  <Project Path="Custom Sorting/Custom Sorting.vcxproj" Id="1ecab385-2894-46ae-9241-c9c8065d2936" />
+  <Project Path="Custom Student Comparator/Custom Student Comparator.vcxproj" Id="13378c4c-3e6e-4723-9a3a-2788d1a06862" />
+  <Project Path="Deque/Deque.vcxproj" Id="3285fe7e-5b23-4b8a-b898-9040353f4599" />
+  <Project Path="Functor Student/Functor Student.vcxproj" Id="f26449cf-5cc6-475e-9aa9-13684954504a" />
+  <Project Path="Functor/Functor.vcxproj" Id="592fd625-bba1-4fc6-9854-431db931c079" />
+  <Project Path="Heap Algorithm/Heap Algorithm.vcxproj" Id="c1eab378-8ff3-44d4-a642-c2a28f52dc4d" />
+  <Project Path="Iterator Algorithm/Iterator Algorithm.vcxproj" Id="3e85e42d-9df5-4301-866c-1733982ac670" />
+  <Project Path="Iterator Basics/Iterator Basics.vcxproj" Id="a0f948b0-7337-49ab-890f-417df2941e79" />
+  <Project Path="List/List.vcxproj" Id="7aa5a496-f70c-46a6-a8ba-42a5c4cfbb82" />
+  <Project Path="Map/Map.vcxproj" Id="730e06bb-8329-4dbf-b371-4d9b739ea009" />
+  <Project Path="Min and Max Algorithm/Min and Max Algorithm.vcxproj" Id="73e9b13c-9a83-41ed-b6d6-debd61ae62e1" />
+  <Project Path="Numeric Algorithms/Numeric Algorithms.vcxproj" Id="47a61c7d-8425-431e-930f-a390cf615aae" />
+  <Project Path="Priority Queue/Priority Queue.vcxproj" Id="40ea8cf0-ffe1-4853-900b-89a4a2e8e1b8" />
+  <Project Path="Queue/Queue.vcxproj" Id="79630397-eaf7-4dd5-945e-6c891d23a15a" />
+  <Project Path="Searching Algorithm/Searching Algorithm.vcxproj" Id="4d44e044-78ab-4286-af0d-bd1666acf087" />
+  <Project Path="Set Algorithm/Set Algorithm.vcxproj" Id="ecdbb89b-4df3-46cd-bccc-3cde6dc33066" />
+  <Project Path="Set/Set.vcxproj" Id="f7ae5219-e718-497d-bbea-6cbe1f421262" />
+  <Project Path="Stack/Stack.vcxproj" Id="985cf73d-363f-4db4-9d86-b8bbcecabce4" />
+  <Project Path="Vector/Vector.vcxproj" Id="71aad191-5e23-4a0f-abb1-cec6273ced3f" />
+</Solution>
